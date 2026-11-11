@@ -13,6 +13,11 @@ El archivo discográfico independiente de Los cuatro Pilares está en:
 
 ## Mapa de contenidos
 
+0. Arquitectura Kernel / avatares y figuras relacionales.
+0. Doctrina de Transmutación: Moneda, Espejo y Versión Oscura, con pares concretos.
+0. Software psicológico: SadMuse 1.0/1.5/2.0, Donna AI y escala Suno V3.5–V6.5.
+0. Semiótica térmica, tríptico textil y colección Therian.
+
 1. Naturaleza estructural: Pilares frente a Eras.
 2. Macro-eras 1.0, 2.0, 3.0 y 4.0.
 3. Bisagras causales: 1.5, 1.9, 2.9 y 3.9.
@@ -56,3 +61,8 @@ URL prevista al habilitar Pages:
 ## Contacto
 
 Artista detrás de DarkCry 1.0: **mriospard@gmail.com**
+
+
+## Evolución editorial 1.5
+
+La edición amplía el Atlas con cartografía de identidades (Kernel / Violet / Dolly / DCX), figuras del entorno (Ella, Toño, Cristopher y Eros), doctrina de Transmutación, pares transformados, motores y filtros, escala cromática/textil y colección Therian. La Master Tape queda descrita con **Suno V6.5 + SadMuse 2.0** según el dossier más reciente. Los Tracking Markers siguen siendo exclusivos de la cinta y no se confunden con X/Y/Z. La terminología clínica es simbólica; los Bad Endings son ramas ficticias separadas de la línea troncal.

@@ -85,3 +85,11 @@
 .atlas-visual-source a{color:var(--gold);font-size:.72rem;font-weight:800;text-decoration:none}
 @media(max-width:900px){.atlas-cover-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:650px){.atlas-cover-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.atlas-subera-cover-grid--three{grid-template-columns:repeat(3,minmax(0,1fr))}.atlas-cover-group>header{align-items:flex-start;flex-direction:column}}
+
+
+/* IMAGEN DE PORTADA DEL ÁLBUM 0 */
+.xyz-cover-link{display:block;width:min(100%,250px);margin:12px auto 4px;overflow:hidden;border:1px solid rgba(216,189,130,.35);border-radius:9px;background:#080d16;aspect-ratio:1}
+.xyz-cover-image{display:block;width:100%;height:100%;object-fit:cover}
+.xyz-hub>small{line-height:1.6}
+.xyz-hub>b{margin:9px 0 4px}
+@media(max-width:650px){.xyz-cover-link{width:min(100%,230px)}}

@@ -21,7 +21,7 @@ The Atlas organiza las imágenes por función narrativa, no por una cronología 
 - The Day I Told You y su concepto alternativo (págs. 7–8); When the Sky Turned Crimson (and warm), Side A / Side B (págs. 9–10).
 
 ## Variantes, espejos y transmutación
-- Crying in the Bubblebath: versión pública censurada (pág. 11) e inédita sin censura (pág. 12), siempre separadas.
+- Crying in the Bubblebath (pág. 11).
 - S.O.S (pág. 14) y Cry for help (pág. 15), versión Espejo.
 - I'm bad, so bad 2.0 y Reggaeton Version (pág. 22).
 - More / Dame más: piloto debut (pág. 23) y Double Exposure (pág. 24).
@@ -35,7 +35,7 @@ The Atlas organiza las imágenes por función narrativa, no por una cronología 
 
 ## Reglas editoriales
 1. No convertir las Eras, sub-eras, coordenadas X/Y/Z ni rutas A/B en una sola escala cronológica.
-2. El Side B de When the Sky Turned Crimson (and warm) se conserva como Era 1.9. La mención “Pilar 3” de la página 10 del PDF es contradictoria; el Pilar 3 es Walking Through the Blue Street.
+2. When the Sky Turned Crimson (and warm) pertenece a Era 1.9, con portadas Side A y Side B.
 3. Las imágenes de las páginas 5–6, y las dos alternativas de Ring Ring de la página 41, quedan como recursos no asignados hasta recibir una identificación más precisa.
 4. Las variantes visuales de Therian —incluidas Miau Miau y Grrr grrr V2— se conservan individualmente.
 5. No tratar Captivity como canon formal.
@@ -53,3 +53,9 @@ Estado: el índice y la correspondencia están documentados. Las imágenes de al
 
 ## Integración efectiva de portadas
 El Atlas ya incorpora las cuatro portadas matrices, las portadas de sub-era y una galería visual de 59 imágenes. Los archivos se sirven desde la biblioteca central del [portal principal](https://github.com/DarkCry10/darkcry10.github.io/tree/main/assets/covers), sin duplicar binarios en este repositorio.
+
+
+## Carátulas incorporadas posteriormente
+- Black Tuesday EP — Era 3 / obra conceptual conectada.
+- Smoke In The Kitchen — proyecto anunciado para el 26 de noviembre de 2026.
+- The Horror Film That Is My Life — portada final incorporada a la biblioteca central.

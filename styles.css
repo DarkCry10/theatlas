@@ -93,3 +93,10 @@
 .xyz-hub>small{line-height:1.6}
 .xyz-hub>b{margin:9px 0 4px}
 @media(max-width:650px){.xyz-cover-link{width:min(100%,230px)}}
+
+
+/* PORTADA FINAL DE THE HORROR FILM THAT IS MY LIFE */
+.vhs-cover{display:flex;flex-direction:column;align-items:stretch;gap:10px;padding:12px;min-width:0}
+.vhs-cover-link{display:block;overflow:hidden;width:100%;aspect-ratio:1;border:1px solid rgba(216,189,130,.28);border-radius:5px;background:#080b12}
+.vhs-cover-link img{display:block;width:100%;height:100%;object-fit:cover}
+.vhs-cover figcaption{color:var(--gold);font:800 .49rem var(--display);letter-spacing:.12em;line-height:1.5;text-align:center}

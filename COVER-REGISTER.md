@@ -48,11 +48,11 @@ The Atlas organiza las imágenes por función narrativa, no por una cronología 
 - assets/covers/therian/
 - assets/covers/connected-works/
 
-Estado: el índice y la correspondencia están documentados. Las imágenes de alta resolución y sus derivados WebP se conservan en un paquete de biblioteca separado; este archivo no declara que los binarios ya estén publicados aquí.
+Estado: índice, correspondencia, portadas de las Eras y galería visual de 60 piezas integrados. Las imágenes WebP se sirven desde la biblioteca central del portal principal.
 
 
 ## Integración efectiva de portadas
-El Atlas ya incorpora las cuatro portadas matrices, las portadas de sub-era y una galería visual de 59 imágenes. Los archivos se sirven desde la biblioteca central del [portal principal](https://github.com/DarkCry10/darkcry10.github.io/tree/main/assets/covers), sin duplicar binarios en este repositorio.
+El Atlas ya incorpora las cuatro portadas matrices, las portadas de sub-era y una galería visual de 60 imágenes. Los archivos se sirven desde la biblioteca central del [portal principal](https://github.com/DarkCry10/darkcry10.github.io/tree/main/assets/covers), sin duplicar binarios en este repositorio.
 
 
 ## Carátulas incorporadas posteriormente

@@ -66,3 +66,7 @@ Artista detrás de DarkCry 1.0: **mriospard@gmail.com**
 ## Evolución editorial 1.5
 
 La edición amplía el Atlas con cartografía de identidades (Kernel / Violet / Dolly / DCX), figuras del entorno (Ella, Toño, Cristopher y Eros), doctrina de Transmutación, pares transformados, motores y filtros, escala cromática/textil y colección Therian. La Master Tape queda descrita con **Suno V6.5 + SadMuse 2.0** según el dossier más reciente. Los Tracking Markers siguen siendo exclusivos de la cinta y no se confunden con X/Y/Z. La terminología clínica es simbólica; los Bad Endings son ramas ficticias separadas de la línea troncal.
+
+
+## Registro de portadas
+[Consultar inventario, correspondencia editorial y notas de canon](./COVER-REGISTER.md).

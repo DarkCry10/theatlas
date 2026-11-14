@@ -100,3 +100,12 @@
 .vhs-cover-link{display:block;overflow:hidden;width:100%;aspect-ratio:1;border:1px solid rgba(216,189,130,.28);border-radius:5px;background:#080b12}
 .vhs-cover-link img{display:block;width:100%;height:100%;object-fit:cover}
 .vhs-cover figcaption{color:var(--gold);font:800 .49rem var(--display);letter-spacing:.12em;line-height:1.5;text-align:center}
+
+
+/* AUTORÍA TEXTUAL Y LOGOTIPO CIRCULAR DEL PIE */
+.authorship-note{max-width:980px;margin:16px 0 22px;padding:15px 18px;border:1px solid var(--line);border-left:3px solid var(--gold);border-radius:10px;background:linear-gradient(100deg,rgba(216,189,130,.085),rgba(18,24,39,.55))}
+.authorship-note strong{display:block;margin-bottom:6px;color:var(--gold);font:800 .58rem var(--display);letter-spacing:.13em;text-transform:uppercase}
+.authorship-note p{margin:0;color:var(--muted);font-size:.69rem;line-height:1.8}
+.footer-brand{display:flex!important;flex-direction:row!important;align-items:center;gap:12px}
+.footer-mark{display:block;flex:0 0 40px;width:40px;height:40px;object-fit:cover;border:1px solid var(--line2);border-radius:50%}
+.footer-brand-copy{display:flex;flex-direction:column;gap:4px}

@@ -29,7 +29,7 @@ El archivo discográfico independiente de Los cuatro Pilares está en:
 
 ## Distinciones taxonómicas esenciales
 
-- Los cuatro Pilares son obras discográficas matrices e inamovibles.
+- Los cuatro Pilares son obras discográficas matrices e inamovibles, en el orden vigente: 01 *The Invisible Boy*, 02 *Crying in the Bubblebath*, 03 *Walking Through the Blue Street* y 04 *I'm bad, so Bad*. Este orden solo cambia ante una revisión futura explícita. La etiqueta heredada «Era 1.9 (Pilar 3)» para el Side B de *When the Sky Turned Crimson (and warm)* no se adopta.
 - Las Eras son macro-contenedores temporales y psicológicos; las sub-eras .5 y .9 funcionan como bisagras causales.
 - X/Y/Z son coordenadas transversales abiertas y perpetuas.
 - A/B solo se asignan a canciones concebidas como contrapartes simétricas. Una pieza unilateral se cataloga como [Era Z], sin letra.
@@ -75,3 +75,7 @@ La edición amplía el Atlas con cartografía de identidades (Kernel / Violet / 
 ## Autoría textual y proceso creativo
 
 La escritura narrativa, poética y lírica de las letras de DarkCry 1.0 es 100 % obra de Jesús Ríos Vásquez. La mayoría de las canciones se basa en experiencias propias, narradas y compuestas por el artista mediante su trabajo de composición, poesía y escritura de letras. SadMuse no redacta ni inventa letras: únicamente da forma y adapta poemas que ya existen. Suno aporta sonido, voz y realización musical para dar vida a esos textos. Donna AI se utilizó solo durante la etapa inicial del proyecto y en la creación de los cuatro Pilares. La tecnología participa en la adaptación y producción; no sustituye la autoría humana del texto.
+
+## Continuidad convergente y Era Z
+
+El Atlas distingue la ubicación discográfica de la cronología diegética. En particular, el Side B de `My LIVE "HOME"` / `A Plea for Shelter` se ubica después de Era 1.9, pero su recorrido material converge con la travesía emocional de `Walking Through the Blue Street`; `Echoes of Blue` funciona como eco y relectura, no como una serie automática de eventos nuevos. Era Z comprende una dimensión afectiva y otra material; las rutas A/B se asignan por contraparte narrativa, no por el vocalista. La referencia transversal está en [canon-registry.json](https://github.com/DarkCry10/darkcry10.github.io/blob/main/data/canon-registry.json).

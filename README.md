@@ -75,3 +75,7 @@ La edición amplía el Atlas con cartografía de identidades (Kernel / Violet / 
 ## Autoría textual y proceso creativo
 
 La escritura narrativa, poética y lírica de las letras de DarkCry 1.0 es 100 % obra de Jesús Ríos Vásquez. La mayoría de las canciones se basa en experiencias propias, narradas y compuestas por el artista mediante su trabajo de composición, poesía y escritura de letras. SadMuse no redacta ni inventa letras: únicamente da forma y adapta poemas que ya existen. Suno aporta sonido, voz y realización musical para dar vida a esos textos. Donna AI se utilizó solo durante la etapa inicial del proyecto y en la creación de los cuatro Pilares. La tecnología participa en la adaptación y producción; no sustituye la autoría humana del texto.
+
+## Continuidad convergente y Era Z
+
+El Atlas distingue la ubicación discográfica de la cronología diegética. En particular, el Side B de `My LIVE "HOME"` / `A Plea for Shelter` se ubica después de Era 1.9, pero su recorrido material converge con la travesía emocional de `Walking through the Blue Street`; `Echoes of Blue` funciona como eco y relectura, no como una serie automática de eventos nuevos. Era Z comprende una dimensión afectiva y otra material; las rutas A/B se asignan por contraparte narrativa, no por el vocalista. La referencia transversal está en [canon-registry.json](https://github.com/DarkCry10/darkcry10.github.io/blob/main/data/canon-registry.json).

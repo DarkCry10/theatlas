@@ -109,3 +109,7 @@
 .footer-brand{display:flex!important;flex-direction:row!important;align-items:center;gap:12px}
 .footer-mark{display:block;flex:0 0 40px;width:40px;height:40px;object-fit:cover;border:1px solid var(--line2);border-radius:50%}
 .footer-brand-copy{display:flex;flex-direction:column;gap:4px}
+
+
+/* Emblema circular también en la cabecera */
+.site-header .brand__logo{display:block;width:40px;height:40px;flex:0 0 40px;object-fit:cover;object-position:center;border-radius:50%;overflow:hidden;border:1px solid var(--line2)}

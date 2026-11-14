@@ -113,3 +113,31 @@
 
 /* Emblema circular también en la cabecera */
 .site-header .brand__logo{display:block;width:40px;height:40px;flex:0 0 40px;object-fit:cover;object-position:center;border-radius:50%;overflow:hidden;border:1px solid var(--line2)}
+
+/* Canon expansion: convergent timelines and Era Z */
+.convergence-flow,.z-dimension-grid,.z-routes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.convergence-material,.convergence-emotional,.convergence-echo,.convergence-rule,
+.z-dimension-grid article,.z-common,.z-route-a,.z-route-b,.z-rule{
+  border:1px solid var(--line,rgba(255,255,255,.14));border-radius:18px;padding:1.2rem;
+  background:linear-gradient(145deg,rgba(255,255,255,.045),rgba(255,255,255,.015));
+}
+.convergence-material small,.convergence-emotional small,.convergence-echo small,
+.z-dimension-grid small,.z-common small,.z-route-a small,.z-route-b small{
+  display:block;margin-bottom:.55rem;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted,#aeb7c8)
+}
+.convergence-material{border-color:rgba(184,145,96,.36);background:rgba(145,105,58,.09)}
+.convergence-emotional{border-color:rgba(91,142,198,.4);background:rgba(50,87,132,.12)}
+.convergence-material span,.convergence-emotional span{font-size:.67rem;letter-spacing:.12em;color:var(--muted,#aeb7c8)}
+.convergence-cross{display:none}
+.convergence-echo{margin-top:1rem;background:rgba(104,93,148,.12);border-color:rgba(148,133,205,.34)}
+.convergence-rule,.z-rule{margin-top:1rem;line-height:1.75;background:rgba(255,255,255,.035)}
+.z-dimension-grid{margin-bottom:1rem}
+.z-matrix{display:grid;gap:1rem}
+.z-common{background:rgba(169,119,69,.1);border-color:rgba(190,143,88,.32)}
+.z-common h3,.z-route-a h3,.z-route-b h3{margin:.2rem 0 .65rem}
+.z-common p,.z-route-a p,.z-route-b p,.z-dimension-grid p,.convergence-material p,.convergence-emotional p,.convergence-echo p{line-height:1.72;color:var(--muted,#b9c1cf)}
+.z-common a{color:var(--accent,#b9c9e6)}
+.z-route-a{border-color:rgba(220,83,104,.35);background:rgba(130,38,57,.13)}
+.z-route-b{border-color:rgba(83,130,193,.38);background:rgba(37,69,117,.16)}
+.z-route-a small{color:#e6a0ad}.z-route-b small{color:#a9c8ec}
+@media(max-width:760px){.convergence-flow,.z-dimension-grid,.z-routes{grid-template-columns:1fr}}
